@@ -1,0 +1,252 @@
+[
+  {
+    "ko": "음식",
+    "uz": "ovqat",
+    "image": "images/L03_W001.jpg"
+  },
+  {
+    "ko": "딸기",
+    "uz": "qulupnay",
+    "image": "images/L03_W002.jpg"
+  },
+  {
+    "ko": "커피",
+    "uz": "qahva",
+    "image": "images/L03_W003.jpg"
+  },
+  {
+    "ko": "빵",
+    "uz": "non",
+    "image": "images/L03_W004.jpg"
+  },
+  {
+    "ko": "수박",
+    "uz": "tarvuz",
+    "image": "images/L03_W005.jpg"
+  },
+  {
+    "ko": "차",
+    "uz": "choy",
+    "image": "images/L03_W006.jpg"
+  },
+  {
+    "ko": "하나",
+    "uz": "bir",
+    "image": "images/L03_W007.jpg"
+  },
+  {
+    "ko": "둘",
+    "uz": "ikki",
+    "image": "images/L03_W008.jpg"
+  },
+  {
+    "ko": "셋",
+    "uz": "uch",
+    "image": "images/L03_W009.jpg"
+  },
+  {
+    "ko": "넷",
+    "uz": "to‘rt",
+    "image": "images/L03_W010.jpg"
+  },
+  {
+    "ko": "다섯",
+    "uz": "besh",
+    "image": "images/L03_W011.jpg"
+  },
+  {
+    "ko": "여섯",
+    "uz": "olti",
+    "image": "images/L03_W012.jpg"
+  },
+  {
+    "ko": "일곱",
+    "uz": "yetti",
+    "image": "images/L03_W013.jpg"
+  },
+  {
+    "ko": "여덟",
+    "uz": "sakkiz",
+    "image": "images/L03_W014.jpg"
+  },
+  {
+    "ko": "아홉",
+    "uz": "to‘qqiz",
+    "image": "images/L03_W015.jpg"
+  },
+  {
+    "ko": "열",
+    "uz": "o‘n",
+    "image": "images/L03_W016.jpg"
+  },
+  {
+    "ko": "샌드위치",
+    "uz": "sendvich",
+    "image": "images/L03_W017.jpg"
+  },
+  {
+    "ko": "음료수",
+    "uz": "ichimlik",
+    "image": "images/L03_W018.jpg"
+  },
+  {
+    "ko": "주스",
+    "uz": "sharbat",
+    "image": "images/L03_W019.jpg"
+  },
+  {
+    "ko": "과일",
+    "uz": "meva",
+    "image": "images/L03_W020.jpg"
+  },
+  {
+    "ko": "사과",
+    "uz": "olma",
+    "image": "images/L03_W021.jpg"
+  },
+  {
+    "ko": "우유",
+    "uz": "sut",
+    "image": "images/L03_W022.jpg"
+  },
+  {
+    "ko": "어서 오세요",
+    "uz": "xush kelibsiz",
+    "image": "images/L03_W023.jpg"
+  },
+  {
+    "ko": "케이크",
+    "uz": "tort",
+    "image": "images/L03_W024.jpg"
+  },
+  {
+    "ko": "초콜릿",
+    "uz": "shokolad",
+    "image": "images/L03_W025.jpg"
+  },
+  {
+    "ko": "빙수",
+    "uz": "bingsu (muzli shirinlik)",
+    "image": "images/L03_W026.jpg"
+  },
+  {
+    "ko": "녹차",
+    "uz": "ko‘k choy",
+    "image": "images/L03_W027.jpg"
+  },
+  {
+    "ko": "디저트",
+    "uz": "desert",
+    "image": "images/L03_W028.jpg"
+  },
+  {
+    "ko": "왕기 케이크",
+    "uz": "katta tort",
+    "image": "images/L03_W029.jpg"
+  },
+  {
+    "ko": "초콜릿 케이크",
+    "uz": "shokoladli tort",
+    "image": "images/L03_W030.jpg"
+  },
+  {
+    "ko": "누가 케이크",
+    "uz": "nuga torti",
+    "image": "images/L03_W031.jpg"
+  },
+  {
+    "ko": "아이스크림",
+    "uz": "muzqaymoq",
+    "image": "images/L03_W032.jpg"
+  },
+  {
+    "ko": "가게",
+    "uz": "do‘kon",
+    "image": "images/L03_W033.jpg"
+  },
+  {
+    "ko": "망고",
+    "uz": "mango",
+    "image": "images/L03_W034.jpg"
+  },
+  {
+    "ko": "어디",
+    "uz": "qayer",
+    "image": "images/L03_W035.jpg"
+  },
+  {
+    "ko": "문구점",
+    "uz": "kanselyariya do‘koni",
+    "image": "images/L03_W036.jpg"
+  },
+  {
+    "ko": "여기",
+    "uz": "bu yer",
+    "image": "images/L03_W037.jpg"
+  },
+  {
+    "ko": "저기",
+    "uz": "ana u yer",
+    "image": "images/L03_W038.jpg"
+  },
+  {
+    "ko": "거기",
+    "uz": "u yer",
+    "image": "images/L03_W039.jpg"
+  },
+  {
+    "ko": "안",
+    "uz": "ichida",
+    "image": "images/L03_W040.jpg"
+  },
+  {
+    "ko": "밖",
+    "uz": "tashqarida",
+    "image": "images/L03_W041.jpg"
+  },
+  {
+    "ko": "옆",
+    "uz": "yonida",
+    "image": "images/L03_W042.jpg"
+  },
+  {
+    "ko": "위",
+    "uz": "ustida",
+    "image": "images/L03_W043.jpg"
+  },
+  {
+    "ko": "아래(밑)",
+    "uz": "ostida",
+    "image": "images/L03_W044.jpg"
+  },
+  {
+    "ko": "카페",
+    "uz": "kafe",
+    "image": "images/L03_W045.jpg"
+  },
+  {
+    "ko": "편의점",
+    "uz": "minimarket",
+    "image": "images/L03_W046.jpg"
+  },
+  {
+    "ko": "서울",
+    "uz": "Seul",
+    "image": "images/L03_W047.jpg"
+  },
+  {
+    "ko": "강남",
+    "uz": "Gangnam",
+    "image": "images/L03_W048.jpg"
+  },
+  {
+    "ko": "바나나",
+    "uz": "banan",
+    "image": "images/L03_W049.jpg"
+  },
+  {
+    "ko": "안경",
+    "uz": "ko‘zoynak",
+    "image": "images/L03_W050.jpg"
+  }
+]
