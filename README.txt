@@ -1,0 +1,1 @@
+39 AI-generated 3D illustrations, cropped from composite sheets and resized to 800 x 600. Some abstract concepts are ambiguous. Review before use. Mapping JSON lists image paths in original vocabulary order.

@@ -1,0 +1,197 @@
+[
+  {
+    "ko": "한국",
+    "uz": "Koreya",
+    "image": "images/L01_W001.jpg"
+  },
+  {
+    "ko": "미국",
+    "uz": "Amerika Qo‘shma Shtatlari (AQSH)",
+    "image": "images/L01_W002.jpg"
+  },
+  {
+    "ko": "중국",
+    "uz": "Xitoy",
+    "image": "images/L01_W003.jpg"
+  },
+  {
+    "ko": "일본",
+    "uz": "Yaponiya",
+    "image": "images/L01_W004.jpg"
+  },
+  {
+    "ko": "프랑스",
+    "uz": "Fransiya",
+    "image": "images/L01_W005.jpg"
+  },
+  {
+    "ko": "러시아",
+    "uz": "Rossiya",
+    "image": "images/L01_W006.jpg"
+  },
+  {
+    "ko": "브라질",
+    "uz": "Braziliya",
+    "image": "images/L01_W007.jpg"
+  },
+  {
+    "ko": "말레이시아",
+    "uz": "Malayziya",
+    "image": "images/L01_W008.jpg"
+  },
+  {
+    "ko": "몽골",
+    "uz": "Mo‘g‘uliston",
+    "image": "images/L01_W009.jpg"
+  },
+  {
+    "ko": "베트남",
+    "uz": "Vyetnam",
+    "image": "images/L01_W010.jpg"
+  },
+  {
+    "ko": "나라",
+    "uz": "mamlakat",
+    "image": "images/L01_W011.jpg"
+  },
+  {
+    "ko": "안녕하세요",
+    "uz": "salom (rasmiy)",
+    "image": "images/L01_W012.jpg"
+  },
+  {
+    "ko": "만나서) 반가워요",
+    "uz": "tanishganimdan xursandman",
+    "image": "images/L01_W013.jpg"
+  },
+  {
+    "ko": "어느",
+    "uz": "qaysi",
+    "image": "images/L01_W014.jpg"
+  },
+  {
+    "ko": "네",
+    "uz": "ha",
+    "image": "images/L01_W015.jpg"
+  },
+  {
+    "ko": "인도",
+    "uz": "Hindiston",
+    "image": "images/L01_W016.jpg"
+  },
+  {
+    "ko": "친구",
+    "uz": "do‘st",
+    "image": "images/L01_W017.jpg"
+  },
+  {
+    "ko": "호주",
+    "uz": "Avstraliya",
+    "image": "images/L01_W018.jpg"
+  },
+  {
+    "ko": "태국",
+    "uz": "Tailand",
+    "image": "images/L01_W019.jpg"
+  },
+  {
+    "ko": "선생님",
+    "uz": "o‘qituvchi",
+    "image": "images/L01_W020.jpg"
+  },
+  {
+    "ko": "의사",
+    "uz": "shifokor",
+    "image": "images/L01_W021.jpg"
+  },
+  {
+    "ko": "학생",
+    "uz": "o‘quvchi, talaba",
+    "image": "images/L01_W022.jpg"
+  },
+  {
+    "ko": "배우",
+    "uz": "aktyor / aktrisa",
+    "image": "images/L01_W023.jpg"
+  },
+  {
+    "ko": "기자",
+    "uz": "jurnalist",
+    "image": "images/L01_W024.jpg"
+  },
+  {
+    "ko": "대학생",
+    "uz": "universitet talabasi",
+    "image": "images/L01_W025.jpg"
+  },
+  {
+    "ko": "회사원",
+    "uz": "ofis xodimi",
+    "image": "images/L01_W026.jpg"
+  },
+  {
+    "ko": "요리사",
+    "uz": "oshpaz",
+    "image": "images/L01_W027.jpg"
+  },
+  {
+    "ko": "가수",
+    "uz": "qo‘shiqchi",
+    "image": "images/L01_W028.jpg"
+  },
+  {
+    "ko": "운동선수",
+    "uz": "sportchi",
+    "image": "images/L01_W029.jpg"
+  },
+  {
+    "ko": "프로그래머",
+    "uz": "dasturchi",
+    "image": "images/L01_W030.jpg"
+  },
+  {
+    "ko": "아니요",
+    "uz": "yo‘q",
+    "image": "images/L01_W031.jpg"
+  },
+  {
+    "ko": "대학원생",
+    "uz": "magistrant, aspirant",
+    "image": "images/L01_W032.jpg"
+  },
+  {
+    "ko": "룸메이트",
+    "uz": "xonadosh",
+    "image": "images/L01_W033.jpg"
+  },
+  {
+    "ko": "이름",
+    "uz": "ism",
+    "image": "images/L01_W034.jpg"
+  },
+  {
+    "ko": "뭐",
+    "uz": "nima",
+    "image": "images/L01_W035.jpg"
+  },
+  {
+    "ko": "직업",
+    "uz": "kasb",
+    "image": "images/L01_W036.jpg"
+  },
+  {
+    "ko": "메일",
+    "uz": "elektron pochta (e-mail)",
+    "image": "images/L01_W037.jpg"
+  },
+  {
+    "ko": "주소",
+    "uz": "manzil",
+    "image": "images/L01_W038.jpg"
+  },
+  {
+    "ko": "여러분",
+    "uz": "barchangiz, hammangiz",
+    "image": "images/L01_W039.jpg"
+  }
+]
